@@ -1,0 +1,508 @@
+{
+  "Metadata": {
+    "title": "Espresso Haven | Specialty Coffee & Cozy Atmosphere",
+    "description": "Espresso Haven offers premium specialty coffee, fresh pastries, and a cozy space for coffee lovers. Enjoy espresso, lattes, and more in a welcoming café.",
+    "keywords": "coffee, espresso, café, specialty coffee, pastries, Espresso Haven, coffee shop, barista, latte, cappuccino, coffee beans"
+  },
+  "AboutMetadata": {
+    "title": "About Us - Espresso Haven",
+    "description": "Discover Espresso Haven, our love for coffee, and our dedication to quality and community.",
+    "keywords": "About us, Espresso Haven, coffee story, coffee passion, specialty coffee, community café"
+  },
+  "ContactMetadata": {
+    "title": "Contact Us - Espresso Haven",
+    "description": "Contact Espresso Haven for events, catering, or any inquiries. We love connecting with our coffee community!",
+    "keywords": "Contact us, Espresso Haven, coffee shop contact, events, catering, coffee community"
+  },
+  "PrivacyPolicyMetadata": {
+    "title": "Privacy Policy - Espresso Haven",
+    "description": "Learn how Espresso Haven protects your privacy and manages your personal information. We are committed to data security and transparency.",
+    "keywords": "privacy policy, data protection, personal information, Espresso Haven, privacy rights"
+  },
+  "TermsOfServiceMetadata": {
+    "title": "Terms of Service - Espresso Haven",
+    "description": "Terms and conditions for using Espresso Haven services and products. Important usage guidelines and policies.",
+    "keywords": "terms of service, terms and conditions, usage policy, Espresso Haven, coffee shop"
+  },
+  "CookiePolicyMetadata": {
+    "title": "Cookie Policy - Espresso Haven",
+    "description": "Information about how Espresso Haven uses cookies and tracking technologies on our website. Manage your cookie preferences.",
+    "keywords": "cookie policy, cookies, tracking, website analytics, Espresso Haven"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ar {🇦🇪 Arabic} en {🇺🇸 English} other {unknown}}"
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist.",
+    "backToHome": "Back to Home"
+  },
+  "HomePage": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Your Daily Coffee Retreat",
+      "subtitle": "At Espresso Haven, every cup is a crafted experience. Savor the moment with us.",
+      "cta": "Order Your Coffee Now",
+      "badge": "Specialty Coffee Shop",
+      "features": {
+        "organic": {
+          "title": "Fresh Beans",
+          "subtitle": "Ethically Sourced"
+        },
+        "tech": {
+          "title": "Barista Craft",
+          "subtitle": "Expertly Brewed"
+        },
+        "delivery": {
+          "title": "Quick Service",
+          "subtitle": "Ready in Minutes"
+        },
+        "quality": {
+          "title": "Cozy Ambience",
+          "subtitle": "Relax & Enjoy"
+        }
+      },
+      "social": {
+        "reviews": "Reviews",
+        "support": "Support",
+        "experience": "Years Serving"
+      },
+      "scroll": "Explore Our Menu"
+    },
+    "about": {
+      "title": "About Espresso Haven",
+      "description": "Espresso Haven was founded by coffee enthusiasts to serve the perfect cup in a warm, inviting space. Our beans are roasted to perfection, and our team is passionate about every detail.",
+      "badge": "Since 2015",
+      "stats": {
+        "experience": {
+          "number": "8+",
+          "label": "Years Serving"
+        },
+        "clients": {
+          "number": "10,000+",
+          "label": "Happy Guests"
+        }
+      },
+      "mission": {
+        "title": "Our Mission",
+        "description": "To create memorable coffee moments for everyone."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To be the heart of the community, one cup at a time."
+      }
+    },
+    "products": {
+      "title": "Our Coffee Menu",
+      "subtitle": "Discover our range of specialty coffees, teas, and fresh pastries, crafted for every taste.",
+      "badge": "Signature Drinks",
+      "pesticides": {
+        "title": "Espresso Classics",
+        "description": "Rich espresso shots, americanos, and more for true coffee lovers.",
+        "features": {
+          "feature1": "Single-origin beans",
+          "feature2": "Perfect crema"
+        }
+      },
+      "health": {
+        "title": "Lattes & Cappuccinos",
+        "description": "Creamy, smooth, and topped with beautiful latte art. Choose from classic or flavored options.",
+        "features": {
+          "feature1": "Steamed milk perfection",
+          "feature2": "Artisan flavors"
+        }
+      },
+      "fertilizers": {
+        "title": "Cold Brews & Iced Coffees",
+        "description": "Chilled, refreshing, and bold. Our cold brews are steeped for hours for a smooth finish.",
+        "features": {
+          "feature1": "Slow-steeped",
+          "feature2": "Naturally sweet"
+        }
+      },
+      "seeds": {
+        "title": "Pastries & Treats",
+        "description": "Freshly baked croissants, muffins, and cakes to pair with your coffee.",
+        "features": {
+          "feature1": "Baked daily",
+          "feature2": "Local ingredients"
+        }
+      },
+      "irrigation": {
+        "title": "Teas & Alternatives",
+        "description": "A curated selection of teas, matcha, and non-coffee drinks for every guest.",
+        "features": {
+          "feature1": "Premium loose-leaf",
+          "feature2": "Matcha & more"
+        }
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Espresso Haven",
+      "subtitle": "We blend quality, comfort, and community. Every visit is a new experience.",
+      "badge": "Loved by Locals",
+      "quality": {
+        "title": "Quality Beans",
+        "description": "We source only the best beans, roasted fresh for every cup.",
+        "features": {
+          "feature1": "Ethically sourced",
+          "feature2": "Freshly roasted"
+        }
+      },
+      "team": {
+        "title": "Expert Baristas",
+        "description": "Our team is trained to craft the perfect drink, every time.",
+        "features": {
+          "feature1": "Barista certified",
+          "feature2": "Friendly service"
+        }
+      },
+      "delivery": {
+        "title": "Fast & Friendly",
+        "description": "Quick service with a smile, whether you dine in or take away.",
+        "features": {
+          "feature1": "Order ahead",
+          "feature2": "Contactless pickup"
+        }
+      },
+      "stats": {
+        "title": "Our Café in Numbers",
+        "satisfaction": "Guest Satisfaction",
+        "projects": "Coffees Served",
+        "response": "Order Time"
+      },
+      "testimonial": {
+        "quote": "Espresso Haven is my daily escape. The coffee is always perfect and the staff make you feel at home!",
+        "author": "Sarah M.",
+        "role": "Local Regular"
+      }
+    },
+    "cta": {
+      "title": "Ready for Your Coffee Break?",
+      "subtitle": "Join our community of coffee lovers at Espresso Haven.",
+      "button": "Visit Us Today",
+      "socialProof": "4.9/5 from 2,000+ reviews"
+    },
+    "footer": {
+      "address": "123 Coffee Lane, Downtown, Your City",
+      "phone": "+970595514207",
+      "email": "mohamed.helles.dev@gmail.com",
+      "companyName": "Espresso Haven",
+      "companyTagline": "Specialty Coffee & Pastries",
+      "companySince": "Brewing Joy Since 2015",
+      "quickLinks": "Quick Links",
+      "contactInfo": "Contact Info",
+      "getStarted": "Get Started",
+      "ctaText": "Craving coffee? Contact our baristas or order online!",
+      "ctaButton": "Order Coffee",
+      "products": "Our Menu",
+      "copyright": "Espresso Haven. All rights reserved.",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "cookiePolicy": "Cookie Policy"
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "badge": "Serving Since 2015",
+      "title": "Crafting Perfect Coffee Moments",
+      "subtitle": "Experience the art of specialty coffee in our cozy haven where every cup tells a story of passion, quality, and community.",
+      "feature": {
+        "title": "Coffee Artistry",
+        "subtitle": "Where every cup is a masterpiece"
+      }
+    },
+    "mission": {
+      "title": "Our Roast Philosophy",
+      "content": "We source only the finest Arabica beans, roasted to perfection to bring out their unique flavor profiles. Our small-batch roasting process ensures maximum freshness and quality in every cup.",
+      "badge": "Roasted to Perfection"
+    },
+    "vision": {
+      "title": "Our Coffee Journey",
+      "content": "To create a welcoming space where coffee lovers can explore the world of specialty coffee, one cup at a time, while supporting sustainable farming practices and local communities.",
+      "badge": "Brewing Excellence"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide our coffee journey",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "We're committed to serving only the highest quality coffee, carefully selected and expertly roasted to bring out the best in every bean."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We partner with ethical farms that prioritize environmental responsibility and fair treatment of workers throughout the supply chain."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Our café is more than just a place to drink coffee – it's a gathering space that brings people together and fosters meaningful connections."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We're constantly exploring new brewing methods and flavor profiles to enhance your coffee experience."
+      }
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Espresso Haven began as a dream to share our passion for exceptional coffee. What started as a small roastery has grown into a beloved community hub where coffee lovers gather to enjoy carefully crafted beverages in a warm, inviting atmosphere.",
+      "badge": "Brewed with Love"
+    },
+    "impact": {
+      "title": "Our Impact",
+      "subtitle": "More than just great coffee",
+      "coffee": {
+        "number": "50+",
+        "label": "Coffee Varieties"
+      },
+      "roasts": {
+        "number": "1000+",
+        "label": "Batches Roasted"
+      },
+      "community": {
+        "number": "5000+",
+        "label": "Happy Customers"
+      },
+      "sustainability": {
+        "number": "100%",
+        "label": "Ethically Sourced"
+      }
+    },
+    "team": {
+      "title": "Our Baristas",
+      "subtitle": "Passionate coffee experts dedicated to your perfect cup",
+      "description": "Our team of certified baristas brings years of expertise and a genuine love for coffee to every drink we serve."
+    },
+    "cta": {
+      "title": "Ready for Your Perfect Cup?",
+      "subtitle": "Join our community of coffee lovers and experience the Espresso Haven difference",
+      "button": "Visit Us Today",
+      "socialProof": "4.9/5 from 2000+ reviews"
+    }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "description": "If you have any questions or need more information, feel free to reach out to us.",
+    "address": "Address",
+    "addressDetails": "123 Coffee Lane, Downtown, Your City",
+    "phone": "Phone",
+    "phoneNumber": "+970595514207",
+    "email": "Email",
+    "emailAddress": "mohamed.helles.dev@gmail.com",
+    "businessHours": "Business Hours",
+    "whyContactUs": "Why Contact Us?",
+    "findUs": "Find Us",
+    "ourLocation": "Our Location",
+    "locationDescription": "Located in the heart of the city for easy access",
+    "benefits": {
+      "consultation": "Free coffee consultation",
+      "advice": "Expert advice on coffee selection",
+      "solutions": "Custom coffee solutions for your event",
+      "response": "Quick response within 24 hours"
+    },
+    "schedule": {
+      "sundayThursday": "Sunday - Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "morningHours": "8:00 AM - 6:00 PM",
+      "fridayHours": "8:00 AM - 12:00 PM",
+      "closed": "Closed"
+    },
+    "cta": {
+      "title": "Ready to Experience Great Coffee?",
+      "subtitle": "Contact our team today for personalized coffee solutions",
+      "callNow": "Call Now",
+      "emailUs": "Email Us"
+    },
+    "form": {
+      "title": "Send us a message",
+      "description": "We would love to hear from you! Please fill out the form below to get in touch with us.",
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully!",
+      "error": "There was an error sending your message. Please try again later.",
+      "validation": {
+        "nameRequired": "Name is required",
+        "nameMinLength": "Name must be at least 2 characters",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "messageRequired": "Message is required",
+        "messageMinLength": "Message must be at least 10 characters"
+      },
+      "api": {
+        "allFieldsRequired": "All fields are required",
+        "invalidEmail": "Please enter a valid email address",
+        "successMessage": "Message sent successfully!",
+        "errorMessage": "Failed to send message. Please try again later."
+      }
+    }
+  },
+  "PrivacyPolicyPage": {
+    "title": "Privacy Policy",
+    "description": "Learn how Espresso Haven collects, uses, and protects your personal information.",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "Introduction",
+      "content": "At Espresso Haven, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services."
+    },
+    "informationCollection": {
+      "title": "Information We Collect",
+      "content": "We may collect information about you in a variety of ways. The information we may collect includes:",
+      "personalInfo": "Personal Data: Name, email address, phone number, and other contact information you provide when contacting us or requesting our services.",
+      "businessInfo": "Order Information: Details about your coffee orders, preferences, and feedback.",
+      "usageData": "Usage Data: Information about how you access and use our website, including your IP address, browser type, and pages visited."
+    },
+    "informationUse": {
+      "title": "How We Use Your Information",
+      "content": "We use the information we collect to:",
+      "purposes": [
+        "Provide and maintain our coffee services and products",
+        "Process your orders and requests",
+        "Communicate with you about our services, including responding to inquiries",
+        "Improve our website and services based on your feedback",
+        "Send you updates about new products and offers",
+        "Comply with legal obligations and regulatory requirements"
+      ]
+    },
+    "informationSharing": {
+      "title": "Information Sharing",
+      "content": "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this policy:",
+      "exceptions": [
+        "Service providers who assist us in operating our website and conducting our business",
+        "Legal requirements when we believe disclosure is necessary to comply with applicable laws",
+        "Business transfers in connection with any merger, sale, or acquisition of our company"
+      ]
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us at:"
+    }
+  },
+  "TermsOfServicePage": {
+    "title": "Terms of Service",
+    "description": "Terms and conditions for using Espresso Haven's services and products.",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "Introduction",
+      "content": "These Terms of Service (\"Terms\") govern your use of Espresso Haven's services and products. By accessing our website or using our services, you agree to be bound by these Terms."
+    },
+    "services": {
+      "title": "Our Services",
+      "content": "Espresso Haven provides:",
+      "servicesList": [
+        "Specialty coffee drinks and beverages",
+        "Freshly baked pastries and treats",
+        "Coffee beans and retail products",
+        "Coffee catering for events",
+        "Barista training and workshops",
+        "Coffee equipment and accessories"
+      ]
+    },
+    "productUse": {
+      "title": "Product Use and Safety",
+      "content": "All users of our products must:",
+      "requirements": [
+        "Follow all product labels and safety instructions",
+        "Use products only for their intended purposes",
+        "Comply with all applicable laws and regulations",
+        "Store products safely and away from children and pets",
+        "Dispose of products and containers according to local regulations",
+        "Seek professional advice when uncertain about product application"
+      ]
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "While we strive to provide high-quality products and services, Espresso Haven's liability is limited to the extent permitted by law. We are not responsible for damages resulting from misuse of products or failure to follow safety instructions."
+    },
+    "warranty": {
+      "title": "Product Warranty",
+      "content": "We stand behind the quality of our products. If you experience any issues with our products when used according to instructions, please contact us immediately. We will work to resolve any legitimate concerns."
+    },
+    "termination": {
+      "title": "Termination",
+      "content": "We reserve the right to terminate or suspend access to our services at any time, without prior notice, for conduct that we believe violates these Terms or is harmful to other users or our business."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We may update these Terms from time to time. We will notify you of any significant changes by posting the new Terms on our website. Your continued use of our services after such changes constitutes acceptance of the new Terms."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "content": "For questions about these Terms of Service, please contact us at:"
+    }
+  },
+  "CookiePolicyPage": {
+    "title": "Cookie Policy",
+    "description": "Information about how Espresso Haven uses cookies and similar technologies on our website.",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "What Are Cookies",
+      "content": "Cookies are small text files that are placed on your computer or mobile device when you visit a website. They are widely used to make websites work more efficiently and provide information to website owners."
+    },
+    "howWeUse": {
+      "title": "How We Use Cookies",
+      "content": "We use cookies to:",
+      "purposes": [
+        "Remember your language preference and settings",
+        "Analyze website traffic and user behavior",
+        "Improve website functionality and user experience",
+        "Provide personalized content and recommendations",
+        "Ensure website security and prevent fraud"
+      ]
+    },
+    "typesOfCookies": {
+      "title": "Types of Cookies We Use",
+      "essential": {
+        "title": "Essential Cookies",
+        "description": "These cookies are necessary for the website to function properly. They enable core functionality such as page navigation and access to secure areas."
+      },
+      "functional": {
+        "title": "Functional Cookies",
+        "description": "These cookies remember your preferences and choices to provide a more personalized experience, such as language selection."
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously."
+      },
+      "marketing": {
+        "title": "Marketing Cookies",
+        "description": "These cookies are used to deliver relevant advertisements and track the effectiveness of our marketing campaigns."
+      }
+    },
+    "cookieControl": {
+      "title": "Managing Your Cookie Preferences",
+      "content": "You can control and manage cookies in various ways:",
+      "options": [
+        "Browser Settings: Most browsers allow you to control cookies through their settings",
+        "Opt-out: You can opt-out of certain cookies through industry opt-out mechanisms",
+        "Contact Us: Contact us if you need help managing your cookie preferences"
+      ]
+    },
+    "thirdParty": {
+      "title": "Third-Party Cookies",
+      "content": "Our website may contain links to other websites and services. These third-party sites have their own privacy policies and cookie practices, which we do not control."
+    },
+    "updates": {
+      "title": "Updates to This Policy",
+      "content": "We may update this Cookie Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about our use of cookies, please contact us at:"
+    }
+  }
+}
